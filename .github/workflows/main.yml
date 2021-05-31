@@ -30,7 +30,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-vesion: ${{ matrix.node-version }}
-          registry-url: https://npm.pkg.github.com
+          registry-url: https://npm.pkg.github.com/
           scope: '@atulrana007'
       - run: npm install
       - run: npm publish
