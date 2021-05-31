@@ -1,0 +1,15 @@
+{
+  "name": "publish_to_github_packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@atulrana007"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "atul.rana",
+  "license": "ISC"
+}
