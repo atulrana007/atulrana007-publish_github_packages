@@ -1,5 +1,5 @@
 {
-  "name": "publish_to_github_packages",
+  "name": "@atulrana007/publish_to_github_packages",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   },
   "keywords": [],
   "author": "atul.rana",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/atulrana007/atulrana007-publish_github_packages"
 }
